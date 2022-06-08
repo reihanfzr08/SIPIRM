@@ -1,0 +1,144 @@
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Lab\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\18300017_reihanfazriii\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\18300017_reihanfazriii\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\18300017_reihanfazriii\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\18300017_reihanfazriii\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\Report1.rdlc
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.khs.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.laporan.resources
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\RdlCompile.cache
+D:\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\RdlCompile.compiled
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.khs.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.laporan.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\RdlCompile.cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\RdlCompile.compiled
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\Report1.rdlc
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\DataSet1.Designer.vb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\DataSet1.xsc
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\DataSet1.xsd
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\DataSet1.xss
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormDokter.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterData.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormPasien.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormPermintaanResume.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormResumeMedis.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormResumeMedisRJ.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormUser.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\18300017_reihanfazriiivb\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\DataSet1.Designer.vb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\DataSet1.xsc
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\DataSet1.xsd
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\DataSet1.xss
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormDokter.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterData.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormPasien.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormPermintaanResume.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormResumeMedisRJ.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormUser.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLAPResumeMedis.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formlaporandatapasien.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLAPPerminresume.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\Interop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\AxInterop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\DataSet1.Designer.vb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\DataSet1.xsc
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\DataSet1.xsd
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\DataSet1.xss
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\Interop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\AxInterop.Crystal.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\bin\Debug\AxInterop.CrystalActiveXReportViewerLib13.dll
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Formlaporandatapasien.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormDokter.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormMasterData.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormPasien.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormPermintaanResume.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormLAPResumeMedis.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormResumeMedisRJ.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormUser.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormSuratPerminresume.resources
+D:\materi\visual studio pertemuan\REIHAN VB PERTEMUAN\project_sopie&hana\WindowsApplication1\obj\x86\Debug\WindowsApplication1.FormSuratPelepasanIRM.resources
